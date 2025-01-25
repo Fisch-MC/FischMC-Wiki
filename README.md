@@ -3,6 +3,8 @@
 ### Page 1
 ## Fish List (rarity: TRASH)
 
+<div style="overflow-x: auto;">
+
 | **Fish**          | **Preferences**                       | **Area**                             | **Avg. Value**       |
 |-------------------|---------------------------------------|--------------------------------------|----------------------|
 | **Name**          | Weather  | Time  | Season  | **Bait** | Location          | Radar Location   | C$/kg   | Kg  | C$   |
@@ -21,3 +23,4 @@
 | Basalt            | None     | None  | None    | Magnet   | Roslit Volcano    | -1962, 145, 275  | 0.71    | 18  | 12.9 |
 | Fungal Cluster    | None     | None  | None    | Magnet   | Mushgrove Swamp   | None             | 10      | 0.9 | 9    |
  
+ </div>

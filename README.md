@@ -14,7 +14,7 @@
 
 | **Name**          | **Use**           | Time    |
 |-------------------|-------------------|---------|
-| Rock              |  Trade for raw materials. To make player armor, or boat armor.                | None    |
+| Rock              |  Trade for raw materials. Raw materials can be used to craft player or boat armor.               | None    |
 
   </div>
 </details>

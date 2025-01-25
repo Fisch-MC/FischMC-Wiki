@@ -22,10 +22,3 @@
 </div>
 
 ---
-
-## How to Contribute
-We welcome contributions! If you find outdated information or want to add new details, feel free to submit a pull request. For questions, open an issue.
-
-## License
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
-

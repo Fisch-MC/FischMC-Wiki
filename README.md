@@ -23,13 +23,15 @@
   </div>
 </details>
 <details>
-<summary>Common</summary>
-<div style="overflow-x: auto;">
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332558647808753724/Untitled_7.png?ex=6795b173&is=67945ff3&hm=dd5fb1c00c20ccd41d33f9de3b2d70a6296394de5ea9593f379c2e0f24fc2e4c&" alt="Image" width="12"> Common
+  </summary>
+  <div style="overflow-x: auto;">
 
 | **Fish**          | Weather | Time | Season | **Bait**      | Location          |
 |-------------------|---------|------|--------|---------------|-------------------|
 | Name              | None    | None | None   | blank         | blank             |
 
+  </div>
 </details>
-</div>
 ---

@@ -12,9 +12,9 @@
   </summary>
   <div style="overflow-x: auto;">
 
-| **Name**          | **Use**           | Time    |
-|-------------------|-------------------|---------|
-| Rock              | Trade for raw materials. Raw materials can be used to craft player or boat armor. | None    |
+| **Name**          | **Use**           | Time    | C$/kg | Kg | C$ |
+|-------------------|-------------------|---------|-------|----|----|
+| Rock              | Trade for raw materials. Raw materials can be used to craft player or boat armor. | None    | 1 | 3 | 3 |
 | Moss              | Trade for some basic bait. | None    |
 | Old Bone          | Trade for some basic bait. | None    |
 | Rusty nail        | Combined with **Scrap Wire** to improve boat durability | None    |

@@ -8,7 +8,7 @@
 ### **`Rarity`**
 <details>
   <summary>
-    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873020981409/Untitled_6.png?ex=6795b385&is=67946205&hm=71668fdf779a98af64295f622b2e15d06b2edc5b671dbcd115176d992947b361&" alt="Image" width="12"> Trash
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332563563017015399/fish_raw.png?ex=6795b607&is=67946487&hm=cc13ec5a6ee5dde3022c074fff02cce37ed85627ae465d56ddf140b769d9a2d3&" alt="Image" width="12"> Debris
   </summary>
   <div style="overflow-x: auto;">
 
@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary>
-    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873213923328/Untitled_7.png?ex=6795b385&is=67946205&hm=5f4262e5b0e5de741d7b487e2d888c802042bbd0bd4110bb41b8ebe648ab6811&" alt="Image" width="12"> Common
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332563562467692575/fish_raw_1.png?ex=6795b607&is=67946487&hm=88f139b681b22e85693f87c53c7a1e2a3c1dc395e04ee8410caec5d2e3be62c2&" alt="Image" width="12"> Common
   </summary>
   <div style="overflow-x: auto;">
 
@@ -32,7 +32,7 @@
 </details>
 <details>
   <summary>
-    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332559891679674419/Untitled_8.png?ex=6795b29b&is=6794611b&hm=c84e2f7570942f2e6a09e646ba2cc5e56c465dbc2c546816c3870fdbdcc0ce60&" alt="Image" width="12"> Uncommon
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332563562769416213/fish_raw_2.png?ex=6795b607&is=67946487&hm=d4c902f314c6b03ee4a1890d1fe75075f8655487175793acf574626a79b4d846&" alt="Image" width="12"> Uncommon
   </summary>
   <div style="overflow-x: auto;">
 

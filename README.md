@@ -14,7 +14,16 @@
 
 | **Name**          | **Use**           | Time    |
 |-------------------|-------------------|---------|
-| Rock              |  Trade for raw materials. Raw materials can be used to craft player or boat armor.               | None    |
+| Rock              | Trade for raw materials. Raw materials can be used to craft player or boat armor. | None    |
+| Moss              | Trade for some basic bait. | None    |
+| Bone              | Trade for some basic bait. | None    |
+| Rotten Wood       | Combine with a **Tattered Net** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | None    |
+| Rusty nail        | Combined with **Scrap Wire** to improve boat durability | None    |
+| Broken Rope       | Combine with a **Tattered Net** & **Rotten Wood** to make a fishing net. Used to catch ocean crates. | None    |
+| Scrap Wire        | Trade to improve fishing rod | None    |
+| Tattered Net      | Combine with a **Rotten Wood** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | None    |
+| Bent Spoon        | Collectible or tradeable for coins. | None    |
+| Plastic Bottle    | Collectible or tradeable for coins. | None    |
 
   </div>
 </details>

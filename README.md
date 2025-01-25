@@ -1,11 +1,9 @@
-# FischMC-Wiki
-
-## Welcome to the Official FischMC Wiki
-This repository serves as the ultimate guide for players of FischMC.
+## FischMC-Wiki - Welcome to the Official FischMC Wiki
+- `This repository serves as the ultimate guide for players of FischMC.`
 ---
 
 ## Fish
-Listed below, you'll find important information about fish, locations, preferences, and their values.
+- *`Listed below, you'll find important information about fish, locations, preferences, and their values.`*
 
 ### **`Rarity`**
 <details>

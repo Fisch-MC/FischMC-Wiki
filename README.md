@@ -16,14 +16,14 @@
 |-------------------|-------------------|---------|
 | Rock              | Trade for raw materials. Raw materials can be used to craft player or boat armor. | None    |
 | Moss              | Trade for some basic bait. | None    |
-| Bone              | Trade for some basic bait. | None    |
-| Rotten Wood       | Combine with a **Tattered Net** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | None    |
+| Old Bone          | Trade for some basic bait. | None    |
 | Rusty nail        | Combined with **Scrap Wire** to improve boat durability | None    |
-| Broken Rope       | Combine with a **Tattered Net** & **Rotten Wood** to make a fishing net. Used to catch ocean crates. | None    |
-| Scrap Wire        | Trade to improve fishing rod | None    |
-| Tattered Net      | Combine with a **Rotten Wood** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | None    |
-| Bent Spoon        | Collectible or tradeable for coins. | None    |
-| Plastic Bottle    | Collectible or tradeable for coins. | None    |
+| Scrap Wire        | Combined with **Rusty Nail** to improve boat durability | None    |
+| Rotten Wood       | Combine with a **Tattered Net** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | None    |
+| Broken Rope       | Combine with a **Tattered Net** & **Rotten Wood** to make a fishing net. Used to catch ocean crates. | Night    |
+| Tattered Net      | Combine with a **Rotten Wood** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | Night    |
+| Bent Spoon        | Can be reycled through a trash can at spawn. | Day    |
+| Plastic Bottle    | Can be reycled through a trash can at spawn. | Day    |
 
   </div>
 </details>

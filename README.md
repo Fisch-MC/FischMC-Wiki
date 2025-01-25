@@ -22,8 +22,8 @@
 | Rotten Wood       | Combine with a **Tattered Net** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | None    |
 | Broken Rope       | Combine with a **Tattered Net** & **Rotten Wood** to make a fishing net. Used to catch ocean crates. | Night    |
 | Tattered Net      | Combine with a **Rotten Wood** & **Broken Rope** to make a fishing net. Used to catch ocean crates. | Night    |
-| Bent Spoon        | Can be reycled through a trash can for **Rock** | Day    |
-| Plastic Bottle    | Can be reycled through a trash can for **Rock** | Day    |
+| Bent Spoon        | Can be reycled through a trash can for some **Rock** | Day    |
+| Plastic Bottle    | Can be reycled through a trash can for some **Rock** | Day    |
 
   </div>
 </details>

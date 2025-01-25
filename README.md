@@ -12,9 +12,9 @@
   </summary>
   <div style="overflow-x: auto;">
 
-| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
-|-------------------|---------|------|--------|---------------|-------------------|
-| Name              | None    | None | None   | blank         | blank             |
+| **Name**          | **Use**           | Time    |
+|-------------------|-------------------|---------|
+| Rock              |  Trade for raw materials. To make player armor, or boat armor.                | None    |
 
   </div>
 </details>

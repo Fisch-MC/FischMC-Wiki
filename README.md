@@ -7,7 +7,7 @@ This repository serves as the ultimate guide for players of FischMC.
 ## Fish
 Listed below, you'll find important information about fish, locations, preferences, and their values.
 
-###`Rarity`
+### **`Rarity`**
 <details>
 <summary>TRASH</summary>
 <div style="overflow-x: auto;">

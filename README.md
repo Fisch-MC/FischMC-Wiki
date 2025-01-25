@@ -1,15 +1,15 @@
 # FischMC-Wiki
 
 ## Welcome to the Official FischMC Wiki
-This repository serves as the ultimate guide for players of FischMC. Below, you'll find important information about fish, locations, preferences, and their values.
-
+This repository serves as the ultimate guide for players of FischMC.
 ---
 
-## Fish List (Rarity: TRASH)
-The following table provides information about fish with the rarity "TRASH."
+## Fish
+Listed below, you'll find important information about fish, locations, preferences, and their values.
 
+###`Rarity`
 <details>
-<summary>Click to Expand Full Fish Table</summary>
+<summary>TRASH</summary>
 <div style="overflow-x: auto;">
 
 | **Fish**          | Weather | Time | Season | **Bait**      | Location          |

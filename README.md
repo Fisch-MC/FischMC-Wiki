@@ -8,10 +8,9 @@ This repository serves as the ultimate guide for players of FischMC. Below, you'
 ## Fish List (Rarity: TRASH)
 The following table provides information about fish with the rarity "TRASH."
 
+<details>
+<summary>Click to Expand Full Fish Table</summary>
 <div style="overflow-x: auto;">
-<div class="table-responsive">
-  <table class="table table-striped">
-    <!-- Add your table rows here -->
 
 | **Fish**          | Weather | Time | Season | **Bait**      | Location          |
 |-------------------|---------|------|--------|---------------|-------------------|
@@ -21,9 +20,7 @@ The following table provides information about fish with the rarity "TRASH."
 | Boot              | None    | None | None   | Magnet        | Regionless        |
 | Log               | None    | None | None   | Magnet        | Regionless        |
 
-
-  </table>
-</div>
+</details>
 </div>
 
 ---

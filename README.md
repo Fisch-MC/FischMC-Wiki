@@ -66,4 +66,100 @@
 
   </div>
 </details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Legendary
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Mythical
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Exotic
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Secret
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Relic
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Fragment
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Gemstone
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332560873826291792/Untitled_10.png?ex=6795b386&is=67946206&hm=851b8f9e1629f3dee8864dbb5cb173298df1553859de16bf1d3269e5b6ca20c9&" alt="Image" width="12"> Limited
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
 ---

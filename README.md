@@ -20,7 +20,7 @@
 </details>
 <details>
   <summary>
-    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332563562467692575/fish_raw_1.png?ex=6795b607&is=67946487&hm=88f139b681b22e85693f87c53c7a1e2a3c1dc395e04ee8410caec5d2e3be62c2&" alt="Image" width="12"> Common
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332564287717249135/fish_raw_1.png?ex=6795b6b4&is=67946534&hm=c0719b5729ad0e99bee1d7affece69adf49a7fcf0a19dcc8bf48c209cee283c4&" alt="Image" width="12"> Common
   </summary>
   <div style="overflow-x: auto;">
 
@@ -32,7 +32,7 @@
 </details>
 <details>
   <summary>
-    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332559891679674419/Untitled_8.png?ex=6795b29b&is=6794611b&hm=c84e2f7570942f2e6a09e646ba2cc5e56c465dbc2c546816c3870fdbdcc0ce60&" alt="Image" width="12"> Uncommon
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332564288014913546/fish_raw_2.png?ex=6795b6b4&is=67946534&hm=195546a72f17f0730cf42dd0b522b54183c0de7175aee331a0f891a285c29e9f&" alt="Image" width="12"> Uncommon
   </summary>
   <div style="overflow-x: auto;">
 

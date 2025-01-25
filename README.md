@@ -12,19 +12,27 @@
   </summary>
   <div style="overflow-x: auto;">
 
-  | **Fish**          | Weather | Time | Season | **Bait**      | Location          |
-  |-------------------|---------|------|--------|---------------|-------------------|
-  | Seaweed           | None    | None | None   | Magnet        | Regionless        |
-  | Destroyed Fossil  | None    | Day  | None   | None          | The Depths        |
-  | Bone              | None    | None | None   | Magnet        | Brine Pool        |
-  | Boot              | None    | None | None   | Magnet        | Regionless        |
-  | Log               | None    | None | None   | Magnet        | Regionless        |
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
 
   </div>
 </details>
 <details>
   <summary>
     <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332558647808753724/Untitled_7.png?ex=6795b173&is=67945ff3&hm=dd5fb1c00c20ccd41d33f9de3b2d70a6296394de5ea9593f379c2e0f24fc2e4c&" alt="Image" width="12"> Common
+  </summary>
+  <div style="overflow-x: auto;">
+
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+  </div>
+</details>
+<details>
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332559891679674419/Untitled_8.png?ex=6795b29b&is=6794611b&hm=c84e2f7570942f2e6a09e646ba2cc5e56c465dbc2c546816c3870fdbdcc0ce60&" alt="Image" width="12"> Uncommon
   </summary>
   <div style="overflow-x: auto;">
 

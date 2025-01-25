@@ -7,7 +7,7 @@
 
 ### **`Rarity`**
 <details>
-<summary>TRASH</summary>
+<summary>Trash</summary>
 <div style="overflow-x: auto;">
 
 | **Fish**          | Weather | Time | Season | **Bait**      | Location          |
@@ -20,5 +20,14 @@
 
 </details>
 </div>
+<details>
+<summary>Common</summary>
+<div style="overflow-x: auto;">
 
+| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+|-------------------|---------|------|--------|---------------|-------------------|
+| Name              | None    | None | None   | blank         | blank             |
+
+</details>
+</div>
 ---

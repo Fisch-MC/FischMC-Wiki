@@ -17,6 +17,7 @@ The following table provides information about fish with the rarity "TRASH."
 | Bone              | None    | None | None   | Magnet        | Brine Pool        | None                 |
 | Boot              | None    | None | None   | Magnet        | Regionless        | None                 |
 | Log               | None    | None | None   | Magnet        | Regionless        | None                 |
+|-------------------|---------|------|--------|---------------|-------------------|----------------------|
 | **Fish**          | C$/kg   | Kg   | C$   |
 |-------------------|---------|------|------|
 | Seaweed           | 30      | 0.2  | 6    |

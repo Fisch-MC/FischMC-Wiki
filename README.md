@@ -9,6 +9,9 @@ This repository serves as the ultimate guide for players of FischMC. Below, you'
 The following table provides information about fish with the rarity "TRASH."
 
 <div style="overflow-x: auto;">
+<div class="table-responsive">
+  <table class="table table-striped">
+    <!-- Add your table rows here -->
 
 | **Fish**          | Weather | Time | Season | **Bait**      | Location          |
 |-------------------|---------|------|--------|---------------|-------------------|
@@ -19,6 +22,8 @@ The following table provides information about fish with the rarity "TRASH."
 | Log               | None    | None | None   | Magnet        | Regionless        |
 
 
+  </table>
+</div>
 </div>
 
 ---

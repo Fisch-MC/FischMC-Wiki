@@ -6,21 +6,22 @@
 - *`Listed below, you'll find important information about fish, locations, preferences, and their values.`*
 
 ### **`Rarity`**
-<img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332556581035839529/Untitled_6.png?ex=6795af86&is=67945e06&hm=b78e1e3dc5b605eec5053358fbaeb901e6e5080a6612b2fd8fe2165bb34c6205&" alt="Icon" style="vertical-align: middle; margin-right: 5px;">
 <details>
-</summary>Trash</summary>
-<div style="overflow-x: auto;">
+  <summary>
+    <img src="https://cdn.discordapp.com/attachments/1314713861080875093/1332556581035839529/Untitled_6.png?ex=6795af86&is=67945e06&hm=b78e1e3dc5b605eec5053358fbaeb901e6e5080a6612b2fd8fe2165bb34c6205&" alt="Image" width="30"> Rarity
+  </summary>
+  <div style="overflow-x: auto;">
 
-| **Fish**          | Weather | Time | Season | **Bait**      | Location          |
-|-------------------|---------|------|--------|---------------|-------------------|
-| Seaweed           | None    | None | None   | Magnet        | Regionless        |
-| Destroyed Fossil  | None    | Day  | None   | None          | The Depths        |
-| Bone              | None    | None | None   | Magnet        | Brine Pool        |
-| Boot              | None    | None | None   | Magnet        | Regionless        |
-| Log               | None    | None | None   | Magnet        | Regionless        |
+  | **Fish**          | Weather | Time | Season | **Bait**      | Location          |
+  |-------------------|---------|------|--------|---------------|-------------------|
+  | Seaweed           | None    | None | None   | Magnet        | Regionless        |
+  | Destroyed Fossil  | None    | Day  | None   | None          | The Depths        |
+  | Bone              | None    | None | None   | Magnet        | Brine Pool        |
+  | Boot              | None    | None | None   | Magnet        | Regionless        |
+  | Log               | None    | None | None   | Magnet        | Regionless        |
 
+  </div>
 </details>
-</div>
 <details>
 <summary>Common</summary>
 <div style="overflow-x: auto;">
